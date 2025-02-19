@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// I hate this way of structuring code but i can't come up with a better way
+// A fuction that executes the logic of the sorting algorithm
 void sort(int array[], int size)
 {
     for (int i = 0; i < size - 1; i++)
